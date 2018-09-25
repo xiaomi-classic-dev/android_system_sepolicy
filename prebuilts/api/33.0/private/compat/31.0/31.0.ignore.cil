@@ -43,6 +43,7 @@
     untrusted_app_30
     proc_vendor_sched
     sdk_sandbox_service
+    sysfs_disk_stat
     sysfs_fs_fuse_bpf
     sysfs_vendor_sched
     tv_iapp_service

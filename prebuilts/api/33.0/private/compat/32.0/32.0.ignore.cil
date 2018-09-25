@@ -70,6 +70,7 @@
     selection_toolbar_service
     smart_idle_maint_enabled_prop
     snapuserd_proxy_socket
+    sysfs_disk_stat
     sysfs_fs_fuse_bpf
     sysfs_gpu
     sysfs_lru_gen_enabled
