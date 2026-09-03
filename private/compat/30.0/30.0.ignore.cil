@@ -154,4 +154,5 @@
     vpn_management_service
     watchdog_metadata_file
     wifi_key
-    zygote_config_prop))
+    zygote_config_prop
+    proc_dt_firmware_android))

@@ -21,6 +21,7 @@ allow vold {
 
 r_dir_file(vold, rootfs)
 r_dir_file(vold, metadata_file)
+r_dir_file(vold, proc_dt_firmware_android)
 allow vold {
   proc # b/67049235 processes /proc/<pid>/* files are mislabeled.
   proc_bootconfig

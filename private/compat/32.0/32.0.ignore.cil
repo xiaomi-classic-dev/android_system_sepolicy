@@ -84,4 +84,5 @@
     vendor_vm_file
     virtual_device_service
     wallpaper_effects_generation_service
+    proc_dt_firmware_android
 ))

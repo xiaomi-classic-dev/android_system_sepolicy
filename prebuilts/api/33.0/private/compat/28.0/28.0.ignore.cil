@@ -158,4 +158,5 @@
     vendor_task_profiles_file
     vndk_prop
     vrflinger_vsync_service
-    watchdogd_tmpfs))
+    watchdogd_tmpfs
+    proc_dt_firmware_android))
